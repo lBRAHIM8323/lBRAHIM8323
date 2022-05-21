@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lBRAHIM8323
+- 👋 Hi, I’m @Ibrahim
 - 👀 I’m interested in Python Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
