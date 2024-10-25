@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ibrahim</h1>
-<h3 align="center">An aspiring Data Scientist from India.</h3>
+<h3 align="center">An aspiring Machine Learning/AI Engineer  from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbrahim8323&label=Profile%20views&color=0e75b6&style=flat" alt="lbrahim8323" /> </p>
 
