@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbrahim8323&label=Profile%20views&color=0e75b6&style=flat" alt="lbrahim8323" /> </p>
 
-- 🎓 I’m currently an **AI/ML Intern at PharynxAI**
+- 🎓 I’m currently an **AI/ML Engineer at PharynxAI**
 - 🌟 I work with **Llama, GPT, and other models for fine-tuning.**
 - 🌱 I’m continuously learning **Machine Learning, Deep Learning, and AI.**
 
