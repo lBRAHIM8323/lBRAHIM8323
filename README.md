@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About
 
-I’m an aspiring Machine Learning / AI Engineer based in Delhi, India. I specialize in:
+I’m an aspiring Machine Learning / AI Engineer based in United Arab Emirates. I specialize in:
 
 - Implementing AI and ML models into the backend of software systems using Python.  
 - Fine‑tuning large language models (Llama, GPT, etc.) for custom tasks.  
